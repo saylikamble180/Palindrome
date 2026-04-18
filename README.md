@@ -47,6 +47,7 @@ python main.py
 
 ## 💻 Example Output
 
+```
 Welcome to String Analyzer 🚀
 Enter a string: madam
 
@@ -60,6 +61,7 @@ Enter a string: madam
 5. Enter New String
 6. Exit
 ========================================
+```
 
 ---
 
