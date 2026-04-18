@@ -40,7 +40,7 @@ def main():
 
     while True:
         show_menu()
-        choice = input("Choose an option (1-5): ").strip()
+        choice = input("Choose an option (1-6): ").strip()
 
         if choice == "1":
             result = is_palindrome(text)
@@ -70,7 +70,7 @@ def main():
             break
 
         else:
-            print("\n❌ Invalid choice. Please enter 1-5.")
+            print("\n❌ Invalid choice. Please enter 1-6.")
 
         input("\nPress Enter to return to menu...")
 
